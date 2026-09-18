@@ -1,0 +1,1 @@
+ALTER TABLE `attempts` ADD `organization` text DEFAULT '' NOT NULL;
